@@ -1,0 +1,12 @@
+[project]
+name = "dsh-tool-resume-parse"
+version = "0.0.1"
+description = "Local PDF/document to Markdown parser for HR resume screening (dsh side)"
+# 钉到 3.13: rapidocr-onnxruntime 1.20.1 wheel 仅 cp312/cp313; 3.14 跑不了
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    # markitdown: 各类办公文档(PDF/Word/PPT/Excel)转 Markdown
+    "markitdown[pdf]>=0.0.1",
+    # rapidocr-onnxruntime: 纯本地离线中文 OCR(扫描件/图片文字提取)
+    "rapidocr-onnxruntime>=1.3.0",
+]
