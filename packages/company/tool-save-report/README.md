@@ -1,5 +1,7 @@
 # @deepseek-ai/dsh-tool-save-report
 
+English | [中文](README.zh.md)
+
 Model-facing tool: write a report file into the dsh workbench working tree,
 then `git add` + `commit` + `push` with `pull --rebase` retry.
 

@@ -1,5 +1,7 @@
 # Company
 
+English | [中文](README.zh.md)
+
 Company-specific plugins mounted via `dsh --profile <profile>` patch layers. Each business flow
 assembles its own profile from shared plugins (user-context, save-report, ldap-query) plus
 business-specific tools and system prompts.

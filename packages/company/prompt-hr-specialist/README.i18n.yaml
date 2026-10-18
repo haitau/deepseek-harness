@@ -1,0 +1,19 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/company/prompt-hr-specialist/README.md
+/deepseek-ai-dsh-prompt-hr-specialist:
+  en: 658e7fcf9110319d
+  zh: b9e6f203fad75051
+/deepseek-ai-dsh-prompt-hr-specialist/purpose:
+  en: 4bcd84bce8b38a62
+  zh: bb565f9a4b7b1c8a
+/deepseek-ai-dsh-prompt-hr-specialist/configuration:
+  en: 4d27705a8926a414
+  zh: 4d612aeb2840d058
+/deepseek-ai-dsh-prompt-hr-specialist/system-prompt-contract:
+  en: d728b3410f2321ba
+  zh: ceb27fc18b6a7d44
+/deepseek-ai-dsh-prompt-hr-specialist/known-limitations-and-deferred-work:
+  en: 45c3fdd40db757b2
+  zh: 7f3615e62b1bc9b8

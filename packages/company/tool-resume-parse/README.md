@@ -1,5 +1,7 @@
 # @deepseek-ai/dsh-tool-resume-parse
 
+English | [中文](README.zh.md)
+
 Model-facing tool: parse resume PDF to Markdown via local markitdown-local OCR.
 
 ## Purpose

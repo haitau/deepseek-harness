@@ -1,5 +1,7 @@
 # @deepseek-ai/dsh-prompt-hr-specialist
 
+English | [中文](README.zh.md)
+
 HR Specialist system prompt section: 5 modes (screening, JD drafting,
 candidate communication, policy & SOP, HR action approval).
 
